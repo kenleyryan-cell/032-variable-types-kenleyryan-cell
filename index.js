@@ -1,8 +1,5 @@
-let firstName = "animalName";
-let price = height;
-let eligible = isIndoorpet;
+let animalName = "dog";
+let height = 5;
+let isIndoorPet = true;
 
-docoument.getElementById("string").innerHTML = tpyeof firstName;
-document.getElementById("number").innterHTMl = typeof price; 
-document.getElementById("boolean").innerHTML = typeof eligible;
-
+document.getElementById("result").innerHTML= animalName
